@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/pump/static/css/main.83828a18.css",
+    "main.js": "/pump/static/js/main.24f25612.js",
+    "static/js/787.16256e54.chunk.js": "/pump/static/js/787.16256e54.chunk.js",
+    "static/media/pump-shop-image.jpg": "/pump/static/media/pump-shop-image.92b429aea4f545cfa876.jpg",
+    "index.html": "/pump/index.html",
+    "main.83828a18.css.map": "/pump/static/css/main.83828a18.css.map",
+    "main.24f25612.js.map": "/pump/static/js/main.24f25612.js.map",
+    "787.16256e54.chunk.js.map": "/pump/static/js/787.16256e54.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.83828a18.css",
+    "static/js/main.24f25612.js"
+  ]
+}
